@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Gustavo Ortega Odabachea [L23212223@tijuana.tecnm.mx]
+Gustavo Ortega Odabachea, 23212223 [L23212223@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
